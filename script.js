@@ -6,9 +6,9 @@ const MeusProjetos =[
         link:"https://github.com/SamylleCarvalho/MeuPortif-lio",
     },
     {
-        titulo: "Projeto 2",
-        descricao: "meu segundo projeto",
-        link: "#"
+        titulo: "Projeto Integrador 1 - AgendJá",
+        descricao: "Aplicativo de agendamento de serviços,desenvolvido em equipe,para a disciplina Projeto Integrador 1.",
+        link: "https://github.com/SamylleCarvalho/Aplicativo-AgendJa",
     },
     {
         titulo: "Projeto 3",
