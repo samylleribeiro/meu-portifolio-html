@@ -13,7 +13,7 @@ const MeusProjetos =[
     {
         titulo: "Calculadora de Média",
         descricao: "Calculadora simples para calcular a média de notas e exibir se o aluno foi aprovado ou reprovado.",
-        link:"calcular-media/index.html",
+        link:"Calcular-Media/index.html",
     }
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
