@@ -10,11 +10,6 @@ const MeusProjetos =[
         descricao: "Aplicativo de agendamento de serviços,desenvolvido em equipe,para a disciplina Projeto Integrador 1.",
         link: "https://github.com/SamylleCarvalho/Aplicativo-AgendJa",
     },
-    {
-        titulo: "Calculadora de Média",
-        descricao: "Calculadora simples para calcular a média de 6 notas e exibir se o aluno foi aprovado ou reprovado no semestre.",
-        link:"calcular-media/index.html",
-    }
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
