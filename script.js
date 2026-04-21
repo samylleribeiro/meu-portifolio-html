@@ -19,6 +19,11 @@ const MeusProjetos =[
         titulo:"ferramenta par ou ímpar",
         descricao:"ferramenta simples para verificar se um número é par ou ímpar.",
         link:"https://samyllecarvalho.github.io/ferramenta-par-ou-impar/",
+    },
+    {
+        titulo:"Meu portifólio react",
+        descricao:"Este é o meu portifólio react,onde apresento uma breve descrição minha,uma lista com alguns projetos e contatos.",
+        link:"https://portifolio-react-amber.vercel.app/",
     }
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
