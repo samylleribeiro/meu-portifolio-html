@@ -56,7 +56,7 @@ MeusProjetos.forEach(projeto => {
         },
         {
             titulo: "GitHub",
-            link: "https://github.com/SamylleCarvalho"
+            link: "https://github.com/samylleribeiro"
         },
     ]
 // Gerar os botões de contato dinamicamente.    
