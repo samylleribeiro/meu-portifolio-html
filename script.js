@@ -24,7 +24,12 @@ const MeusProjetos =[
         titulo:"Meu portifólio react",
         descricao:"Este é o meu portifólio react,onde apresento uma breve descrição minha,uma lista com alguns projetos e contatos.",
         link:"https://portifolio-react-amber.vercel.app/",
-    }
+    },
+    {
+        titulo:"Calculadora de Porcentagem",
+        descricao:"Calculadora simples para calcular a porcentagem entre 2 numeros e exibir(N1 % de N2 e um valorX)",
+        link:" https://samylleribeiro.github.io/calculadora-de-porcentagem/",
+    }, 
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
