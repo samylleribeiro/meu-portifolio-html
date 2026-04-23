@@ -30,6 +30,11 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular a porcentagem entre 2 numeros e exibir(N1 % de N2 e um valorX)",
         link:" https://samylleribeiro.github.io/calculadora-de-porcentagem/",
     }, 
+    {
+        titulo:"Ferramenta positivo ou negativo",
+        descricao:"Ferramenta simples onde vai solicitar um número ao usuário e exibir se o número é positivo,negativo ou zero",
+        link:" https://samylleribeiro.github.io/ferramenta-positivo-negativo/",
+    }, 
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
