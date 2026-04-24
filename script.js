@@ -39,7 +39,12 @@ const MeusProjetos =[
         titulo:"Calculadora para divisão",
         descricao:"Calculadora simples para calcular a divisão entre dois números(num1/num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-divisao/",
-    }, 
+    },
+    {
+        titulo:"Calculadora para multiplicação",
+        descricao:"Calculadora simples para calcular a multiplicação entre dois números(num1*num2)",
+        link:" https://samylleribeiro.github.io/calculadora-para-multiplicar./",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
