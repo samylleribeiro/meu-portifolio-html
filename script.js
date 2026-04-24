@@ -50,6 +50,11 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular a subtração entre dois números(num1-num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-subtrair/",
     },
+    {
+        titulo:"Calculadora para somar",
+        descricao:"Calculadora simples para calcular a subtração entre dois números(num1-num2)",
+        link:" https://samylleribeiro.github.io/calculadora-para-somar/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
