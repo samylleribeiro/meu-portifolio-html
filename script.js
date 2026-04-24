@@ -35,6 +35,11 @@ const MeusProjetos =[
         descricao:"Ferramenta simples onde vai solicitar um número ao usuário e exibir se o número é positivo,negativo ou zero",
         link:" https://samylleribeiro.github.io/ferramenta-positivo-negativo/",
     }, 
+    {
+        titulo:"Calculadora para divisão",
+        descricao:"Calculadora simples para calcular a divisão entre dois números(num1/num2)",
+        link:" https://samylleribeiro.github.io/calculadora-para-divisao/",
+    }, 
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
