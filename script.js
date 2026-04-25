@@ -55,6 +55,11 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular a subtração entre dois números(num1-num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-somar/",
     },
+    {
+        titulo:"Calculadora para média",
+        descricao:"Calculadora simples para calcular a média entre 5 notas e calcular se o aluno foi aprovado, reprovado ou ficou de exame final na disciplina",
+        link:" https://samylleribeiro.github.io/media-aritmetica/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
