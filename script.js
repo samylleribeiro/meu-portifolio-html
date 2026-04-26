@@ -60,6 +60,11 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular a média entre 5 notas e calcular se o aluno foi aprovado, reprovado ou ficou de exame final na disciplina",
         link:" https://samylleribeiro.github.io/media-aritmetica/",
     },
+    {
+        titulo:"Calculadora para potência",
+        descricao:"Calculadora simples para calcular a média entre 5 notas e calcular se o aluno foi aprovado, reprovado ou ficou de exame final na disciplina",
+        link:" https://samylleribeiro.github.io/potencia/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
