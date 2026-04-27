@@ -68,10 +68,19 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular a raiz quadrada do número escolhido pelo usuário",
         link:" https://samylleribeiro.github.io/raiz/",
     },
-    {   titulo:"Ferramenta Identificação",
-        descricao:"Ferramenta simples para identificação, onde vai solicitar ao usuário seu nome,endereço e idade,exibindo uma mensagem identificando-o",
+    {   titulo:"ferramenta identificação",
+        descricao:"Ferramenta simples para identicação,vai solicitar ao usuário seu nome,endereço e idade,exibindo uma mensagem identificando-o",
         link:" https://samylleribeiro.github.io/identificar-se/",
     },
+    {   titulo:"Calculadora para pitágoras(hipotenusa)",
+        descricao:"Calculadora de pitágoras para calcular a hipotenusa através dos valores dos catetos informados pelo usuário",
+        link:" https://samylleribeiro.github.io/pitagoras-hipotenusa/",
+    },
+    {   titulo:"Calculadora para pitágoras(cateto)",
+        descricao:"Calculadora de pitágoras para calcular o cateto através dos dos valores do outro cateto e da hipotenusa informados pelo usuário",
+        link:" https://samylleribeiro.github.io/pitagoras-cateto/",
+    },
+
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
