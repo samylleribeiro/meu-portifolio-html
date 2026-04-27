@@ -18,7 +18,7 @@ const MeusProjetos =[
     {
         titulo:"ferramenta par ou ímpar",
         descricao:"ferramenta simples para verificar se um número é par ou ímpar.",
-        link:"https://samyllecarvalho.github.io/ferramenta-par-ou-impar/",
+        link:"https://samylleribeiro.github.io/ferramenta-par-impar/",
     },
     {
         titulo:"Meu portifólio react",
@@ -60,13 +60,17 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular a média entre 5 notas e calcular se o aluno foi aprovado, reprovado ou ficou de exame final na disciplina",
         link:" https://samylleribeiro.github.io/media-aritmetica/",
     },
-    {   titulo:"Calculadora para potêcia",
+    {   titulo:"Calculadora para potência",
         descricao:"Calculadora simples para calcular a potência (usuário informa o número e qual potência quer elevar)",
         link:" https://samylleribeiro.github.io/potencia/",
     },
     {   titulo:"Calculadora para raiz",
         descricao:"Calculadora simples para calcular a raiz quadrada do número escolhido pelo usuário",
         link:" https://samylleribeiro.github.io/raiz/",
+    },
+    {   titulo:"Ferramenta Identificação",
+        descricao:"Ferramenta simples para identificação, onde vai solicitar ao usuário seu nome,endereço e idade,exibindo uma mensagem identificando-o",
+        link:" https://samylleribeiro.github.io/identificar-se/",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
