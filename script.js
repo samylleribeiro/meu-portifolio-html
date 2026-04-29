@@ -88,6 +88,10 @@ const MeusProjetos =[
         descricao:"Calculadora simples para calcular o resto de uma divisão(num1%num2) ",
         link:" https://samylleribeiro.github.io/equacao-do-primeiro-grau/ ",
     },
+    {   titulo:"Calculadora Multifuncional",
+        descricao:"Calculadora multifuncional,pode ser usada pra varias operações ",
+        link:"https://samylleribeiro.github.io/calculadora-multifuncional/ ",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
