@@ -80,7 +80,14 @@ const MeusProjetos =[
         descricao:"Calculadora de pitágoras para calcular o cateto através dos dos valores do outro cateto e da hipotenusa informados pelo usuário",
         link:" https://samylleribeiro.github.io/pitagoras-cateto/",
     },
-
+    {   titulo:"Calculadora para resto de divisão",
+        descricao:"Calculadora simples para calcular o resto de uma divisão(num1%num2) ",
+        link:" https://samylleribeiro.github.io/resto-divisao/",
+    },
+    {   titulo:"Calculadora para equação do primeiro grau",
+        descricao:"Calculadora simples para calcular o resto de uma divisão(num1%num2) ",
+        link:" https://samylleribeiro.github.io/equacao-do-primeiro-grau/ ",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
