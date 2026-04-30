@@ -52,7 +52,7 @@ const MeusProjetos =[
     },
     {
         titulo:"Calculadora para somar",
-        descricao:"Calculadora simples para calcular a subtração entre dois números(num1-num2)",
+        descricao:"Calculadora simples para calcular a soma entre dois números(num1+num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-somar/",
     },
     {
@@ -85,12 +85,16 @@ const MeusProjetos =[
         link:" https://samylleribeiro.github.io/resto-divisao/",
     },
     {   titulo:"Calculadora para equação do primeiro grau",
-        descricao:"Calculadora simples para calcular o resto de uma divisão(num1%num2) ",
+        descricao:"Calculadora para calcular uma equação do primeiro grau ",
         link:" https://samylleribeiro.github.io/equacao-do-primeiro-grau/ ",
     },
     {   titulo:"Calculadora Multifuncional",
         descricao:"Calculadora multifuncional,pode ser usada pra varias operações ",
         link:"https://samylleribeiro.github.io/calculadora-multifuncional/ ",
+    },
+    {   titulo:"Calculadora para equação do segundo grau",
+        descricao:"Calculadora para calcular uma equação do segundo grau ",
+        link:"https://samylleribeiro.github.io/Equacao-segundo-grau/ ",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
