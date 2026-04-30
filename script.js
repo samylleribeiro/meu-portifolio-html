@@ -96,6 +96,10 @@ const MeusProjetos =[
         descricao:"Calculadora para calcular uma equação do segundo grau ",
         link:"https://samylleribeiro.github.io/Equacao-segundo-grau/ ",
     },
+    {   titulo:"Conversor de medidas(distância)",
+        descricao:"Conversor de medidas de distância(cm-m-km) ",
+        link:"https://samylleribeiro.github.io/Conversor-medidas-distancia/ ",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
