@@ -104,9 +104,13 @@ const MeusProjetos =[
         descricao:"Conversor de medidas de liquidos(L-ml) ",
         link:"https://samylleribeiro.github.io/conversor-medidas-liquidos/",
     },
-     {   titulo:"Conversor de medidas(tempo)",
+     {   titulo:"Conversor de tempo",
         descricao:"Conversor de medidas de tempo(seg-mim-horas) ",
         link:" https://samylleribeiro.github.io/Conversor-de-tempo/",
+    },
+    {   titulo:"Conversor de temperatura",
+        descricao:"Conversor de medidas de temperatura(°C-°F-K) ",
+        link:"https://samylleribeiro.github.io/conversor-temperatura/",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
