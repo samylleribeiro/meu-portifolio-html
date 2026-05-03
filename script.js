@@ -116,6 +116,10 @@ const MeusProjetos =[
         descricao:"Calculadora indice de massa corporal(IMC) ",
         link:" https://samylleribeiro.github.io/calculadora-imc/",
     },
+    {   titulo:"Medidor de glicemia🩸💉",
+        descricao:"Medidor simples de glicemia, onde vai exibir uma mensagem informando se a glicemia que o usuário digitou esta normal,pre-diabetico ou já e diabetico" ,
+        link:" https://samylleribeiro.github.io/medidor-glicemia/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
