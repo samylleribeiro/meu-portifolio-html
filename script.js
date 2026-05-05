@@ -128,6 +128,10 @@ const MeusProjetos =[
         descricao:"Medidor simples de triglicerídeos, onde vai exibir uma mensagem informando se o valor do triglicerídeo que o usuário digitou esta normal,limitrofe ou se já e elevado" ,
         link:" https://samylleribeiro.github.io/medidor-triglicerideos/",
     },
+    {   titulo:"Medidor de temperatura corporal🌡️🤒",
+        descricao:"Medidor simples de temperatura corporal, onde vai exibir uma mensagem informando se o valor da temperatura corporal que o usuário digitou esta normal,com febre ou com febre alta" ,
+        link:" https://samylleribeiro.github.io/medidor-temperatura/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
