@@ -132,6 +132,10 @@ const MeusProjetos =[
         descricao:"Medidor simples de pressão arterial, onde vai exibir uma mensagem informando se o valor da pressão arterial que o usuário digitou esta baixa,normal,com pressão alta,hipertensão estágio 1,hipertensão estágio 2 ou crise hipertensiva" ,
         link:" https://samylleribeiro.github.io/medidor-pressao/",
     },
+    {   titulo:"Calculadora de hidratação💧",
+        descricao:"Calculadora de hidratação, onde vai exibir a quantidade recomendada de água que o usuário deve beber diariamente com base em seu peso(peso*35ml) " ,
+        link:" https://samylleribeiro.github.io/calculadora-hidratacao/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
