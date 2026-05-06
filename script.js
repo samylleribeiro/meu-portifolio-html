@@ -128,9 +128,9 @@ const MeusProjetos =[
         descricao:"Medidor simples de triglicerídeos, onde vai exibir uma mensagem informando se o valor do triglicerídeo que o usuário digitou esta normal,limitrofe ou se já e elevado" ,
         link:" https://samylleribeiro.github.io/medidor-triglicerideos/",
     },
-    {   titulo:"Medidor de temperatura corporal🌡️🤒",
-        descricao:"Medidor simples de temperatura corporal, onde vai exibir uma mensagem informando se o valor da temperatura corporal que o usuário digitou esta normal,com febre ou com febre alta" ,
-        link:" https://samylleribeiro.github.io/medidor-temperatura/",
+    {   titulo:"Medidor de pressão arterial🩺💓",
+        descricao:"Medidor simples de pressão arterial, onde vai exibir uma mensagem informando se o valor da pressão arterial que o usuário digitou esta baixa,normal,com pressão alta,hipertensão estágio 1,hipertensão estágio 2 ou crise hipertensiva" ,
+        link:" https://samylleribeiro.github.io/medidor-pressao/",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
