@@ -136,6 +136,10 @@ const MeusProjetos =[
         descricao:"Calculadora de hidratação, onde vai exibir a quantidade recomendada de água que o usuário deve beber diariamente com base em seu peso(peso*35ml) " ,
         link:" https://samylleribeiro.github.io/calculadora-hidratacao/",
     },
+    {   titulo:"Medidor de frequência cardíaca💓🫀",
+        descricao:"Medidor simples de frequência cardíaca, onde vai exibir uma mensagem informando se o valor da frequência cardíaca que o usuário digitou esta normal,baixa ou alta" ,
+        link:" https://samylleribeiro.github.io/frequencia-cardiaca/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
