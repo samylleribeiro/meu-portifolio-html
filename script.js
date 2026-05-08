@@ -140,6 +140,10 @@ const MeusProjetos =[
         descricao:"Medidor simples de frequência cardíaca, onde vai exibir uma mensagem informando se o valor da frequência cardíaca que o usuário digitou esta normal,baixa ou alta" ,
         link:" https://samylleribeiro.github.io/frequencia-cardiaca/",
     },
+     {   titulo:"Contador de passos e calorias 🚶‍♂️🔥",
+        descricao:"Contador simples de passos, onde vai exibir a quantidade aproximada de calorias queimadas,de acordo com a quantidade de passos digitada pelo usuário " ,
+        link:" https://samylleribeiro.github.io/contador-passos-calorias/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
