@@ -144,6 +144,10 @@ const MeusProjetos =[
         descricao:"Contador simples de passos, onde vai exibir a quantidade aproximada de calorias queimadas,de acordo com a quantidade de passos digitada pelo usuário " ,
         link:" https://samylleribeiro.github.io/contador-passos-calorias/",
     },
+     {   titulo:"Gerador de frases motivacionais e versículos bíblicos 📖 💪✨",
+        descricao:"Gerador de frases motivacionais, onde vai exibir uma frase inspiradora toda vez que o usuário clicar no botão " ,
+        link:"https://samylleribeiro.github.io/frases-motivacionais/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
