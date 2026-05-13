@@ -148,6 +148,14 @@ const MeusProjetos =[
         descricao:"Gerador de frases motivacionais, onde vai exibir uma frase inspiradora toda vez que o usuário clicar no botão " ,
         link:"https://samylleribeiro.github.io/frases-motivacionais/",
     },
+     {   titulo:"Orações 📖 📿",
+        descricao:"Praticar a oração é uma maneira de fortalecer a fé e encontrar conforto espiritual.Este projeto apresenta uma coleção de orações para diferentes ocasiões, como gratidão, proteção, saúde e paz interior.Cada oração é cuidadosamente selecionada para inspirar e elevar o espírito, proporcionando momentos de reflexão e conexão com o divino." ,
+        link:"https://samylleribeiro.github.io/oracoes/",
+    },
+    {   titulo:"Mandamentos bíblicos 📖 ✝️",
+        descricao:"Um projeto que apresenta os 10 mandamentos da lei de Deus." ,
+        link:"https://samylleribeiro.github.io/mandamentos/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
