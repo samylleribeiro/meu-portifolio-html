@@ -156,6 +156,10 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta os 10 mandamentos da lei de Deus." ,
         link:"https://samylleribeiro.github.io/mandamentos/",
     },
+    {   titulo:"Monitor de sono 😴",
+        descricao:"Um projeto que apresenta as informações sobre o sono,usuário informa a quantidade de horas dormidas na noite,e o sistema vai exibir uma mensagem informando se o usuário teve uma boa qualidade de sono ou não." ,
+        link:"https://samylleribeiro.github.io/monitor-sono/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
