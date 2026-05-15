@@ -156,9 +156,17 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta os 10 mandamentos da lei de Deus." ,
         link:"https://samylleribeiro.github.io/mandamentos/",
     },
-    {   titulo:"Monitor de sono 😴",
+    {   titulo:"Monitor de sono 🛌💤",
         descricao:"Um projeto que apresenta as informações sobre o sono,usuário informa a quantidade de horas dormidas na noite,e o sistema vai exibir uma mensagem informando se o usuário teve uma boa qualidade de sono ou não." ,
         link:"https://samylleribeiro.github.io/monitor-sono/",
+    },
+    {   titulo:"App de receitas 🍽️",
+        descricao:"Um projeto que apresenta uma lista de receitas deliciosas e fáceis de preparar." ,
+        link:"https://samylleribeiro.github.io/receitas/",
+    },
+    {   titulo:"Cronômetro pomodoro ⏱️",
+        descricao:"Um projeto que apresenta um cronômetro pomodoro para contagem de tempo,informando o usuário sobre o tempo restante e os períodos de descanso." ,
+        link:"https://samylleribeiro.github.io/pomodoro/",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
