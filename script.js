@@ -172,7 +172,10 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta uma calculadora de juros e descontos para auxiliar no cálculo financeiro." ,
         link:"https://samylleribeiro.github.io/calculadora-juros-descontos/",
     },
-    
+     {   titulo:"Calculadora de Combustível(gasolina ou álcool?) ⛽",
+        descricao:"Um projeto que apresenta uma calculadora de combustível para conferir se compensa usar gasolina ou álcool." ,
+        link:"https://samylleribeiro.github.io/calculadora-combustivel/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
