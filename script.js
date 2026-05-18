@@ -172,9 +172,17 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta uma calculadora de juros e descontos para auxiliar no cálculo financeiro." ,
         link:"https://samylleribeiro.github.io/calculadora-juros-descontos/",
     },
-     {   titulo:"Calculadora de Combustível(gasolina ou álcool?) ⛽",
+    {   titulo:"Calculadora de Combustível(gasolina ou álcool?) ⛽",
         descricao:"Um projeto que apresenta uma calculadora de combustível para conferir se compensa usar gasolina ou álcool." ,
         link:"https://samylleribeiro.github.io/calculadora-combustivel/",
+    },
+    {   titulo:"Calculadora de Tempo Vivido",
+        descricao:"Um projeto que apresenta uma calculadora de tempo vivido(desde anos até minutos) de acordo com a data de nascimento." ,
+        link:"https://samylleribeiro.github.io/calculadora-tempo-vivido/",
+    },
+    {   titulo:"Calculadora de idade (Já é maior de idade?)",
+        descricao:"Um projeto que apresenta uma calculadora de idade,exibindo uma mensagem informando se o usuário já é maior de idade ou ainda e menor de idade." ,
+        link:"https://samylleribeiro.github.io/conferir-se-maior-de-idade/",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
