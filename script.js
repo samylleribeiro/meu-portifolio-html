@@ -184,6 +184,14 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta uma calculadora de idade,exibindo uma mensagem informando se o usuário já é maior de idade ou ainda e menor de idade." ,
         link:"https://samylleribeiro.github.io/conferir-se-maior-de-idade/",
     },
+     {   titulo:"Palavras Motivacionais ✨ 💪",
+        descricao:"Um projeto que apresenta um gerador de palavras motivacionais,gerando uma nova palavra a cada clique." ,
+        link:"https://samylleribeiro.github.io/palavras-motivacionais/",
+    },
+    {   titulo:"Gerador de Tabuada",
+        descricao:"Um projeto que apresenta um gerador de tabuada,gerando a tabuada(+ - / % *) do número que o usuário digitou." ,
+        link:"https://samylleribeiro.github.io/gerador-tabuada/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
