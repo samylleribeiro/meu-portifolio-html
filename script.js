@@ -192,6 +192,10 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta um gerador de tabuada,gerando a tabuada(+ - / % *) do número que o usuário digitou." ,
         link:"https://samylleribeiro.github.io/gerador-tabuada/",
     },
+     {   titulo:"Relógio Virtual ⏱️ 📅",
+        descricao:"Um projeto que apresenta um relógio,apresentando o horario e data atual." ,
+        link:"https://samylleribeiro.github.io/relogio/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
