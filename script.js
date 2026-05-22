@@ -196,6 +196,14 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta um relógio,apresentando o horario e data atual." ,
         link:"https://samylleribeiro.github.io/relogio/",
     },
+      {   titulo:"Sorteio de números 🎲",
+        descricao:"Um projeto que apresenta um sorteio de números, usuário número maximo e minimo, o sistema sorteia um número que esta no intervalo entre eles." ,
+        link:"https://samylleribeiro.github.io/sorteio-numeros/",
+    },
+      {   titulo:"Lista de tarefas 📋",
+        descricao:"Um projeto onde é possível criar tarefas e destaca-las como concluida ou exclui-las(tarefas ainda não ficam salvas no navegador)." ,
+        link:"https://samylleribeiro.github.io/lista-tarefas/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
