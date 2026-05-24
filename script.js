@@ -212,6 +212,10 @@ const MeusProjetos =[
         descricao:"Esse projeto apresenta uma calculadora de gorjeta(valor do produto * gorgeta/100) e somamos tudo (valor do produto + valor da gorjeta)" ,
         link:"https://samylleribeiro.github.io/calculadora-gorjeta/",
     },
+      {   titulo:"Contador de Números",
+        descricao:"Esse projeto apresenta um contador de números começando do zero com botões para ir aumentando de um em um,dimunuindo de um em um e voltar pro zero" ,
+        link:"https://samylleribeiro.github.io/contador/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
