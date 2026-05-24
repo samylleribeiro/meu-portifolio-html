@@ -204,6 +204,14 @@ const MeusProjetos =[
         descricao:"Um projeto onde é possível criar tarefas e destaca-las como concluida ou exclui-las(tarefas ainda não ficam salvas no navegador)." ,
         link:"https://samylleribeiro.github.io/lista-tarefas/",
     },
+     {   titulo:"Cronômetro Simples ⏱️",
+        descricao:"Esse projeto apresenta um simples cronômetro com botões de iniciar,pausar e voltar para o zero." ,
+        link:"https://samylleribeiro.github.io/cronometro-simples/",
+    },
+      {   titulo:"Calculadora de Gorjeta 💰",
+        descricao:"Esse projeto apresenta uma calculadora de gorjeta(valor do produto * gorgeta/100) e somamos tudo (valor do produto + valor da gorjeta)" ,
+        link:"https://samylleribeiro.github.io/calculadora-gorjeta/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
