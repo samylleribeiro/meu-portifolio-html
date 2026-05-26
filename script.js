@@ -209,13 +209,17 @@ const MeusProjetos =[
         link:"https://samylleribeiro.github.io/cronometro-simples/",
     },
       {   titulo:"Calculadora de Gorjeta 💰",
-        descricao:"Esse projeto apresenta uma calculadora de gorjeta(valor do produto * gorgeta/100) e somamos tudo (valor do produto + valor da gorjeta)" ,
+        descricao:"Esse projeto apresenta uma calculadora de gorjeta(valor do produto * gorgeta/100) e somamos tudo (valor do produto + valor da gorjeta)." ,
         link:"https://samylleribeiro.github.io/calculadora-gorjeta/",
     },
       {   titulo:"Contador de Números",
-        descricao:"Esse projeto apresenta um contador de números começando do zero com botões para ir aumentando de um em um,dimunuindo de um em um e voltar pro zero" ,
+        descricao:"Esse projeto apresenta um contador de números começando do zero com botões para ir aumentando de um em um,dimunuindo de um em um e voltar pro zero." ,
         link:"https://samylleribeiro.github.io/contador/",
     },
+       {   titulo:"Lembrete de medicamento 💊",
+        descricao:"Esse projeto apresenta um lembrete de medicamento,usuário informa o nome do remédio e com quantas horas deve toma-lo,o sistema informa o horário que deve tomar o remédio",
+        link:"https://samylleribeiro.github.io/lembrete-medicamento/",
+     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
