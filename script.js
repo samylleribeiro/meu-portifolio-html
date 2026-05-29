@@ -20,6 +20,11 @@ const MeusProjetos =[
         descricao:"ferramenta simples para verificar se um número é par ou ímpar.",
         link:"https://samylleribeiro.github.io/ferramenta-par-impar/",
     },
+      {
+        titulo:"ferramenta par ou ímpar",
+        descricao:"Uma nova versão com opção de modo noturno e responsividade para celular.",
+        link:"https://samylleribeiro.github.io/par-impar/",
+    },
     {
         titulo:"Meu portifólio react",
         descricao:"Este é o meu portifólio react,onde apresento uma breve descrição minha,uma lista com alguns projetos e contatos.",
