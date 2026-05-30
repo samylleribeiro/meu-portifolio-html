@@ -16,12 +16,12 @@ const MeusProjetos =[
         link:"https://samyllecarvalho.github.io/calcular-m-dia/",
     },
     {
-        titulo:"ferramenta par ou ímpar",
+        titulo:"Ferramenta Par ou Ímpar",
         descricao:"ferramenta simples para verificar se um número é par ou ímpar.",
         link:"https://samylleribeiro.github.io/ferramenta-par-impar/",
     },
       {
-        titulo:"ferramenta par ou ímpar",
+        titulo:"Ferramenta Par ou Ímpar",
         descricao:"Uma nova versão com opção de modo noturno e responsividade para celular.",
         link:"https://samylleribeiro.github.io/par-impar/",
     },
@@ -36,10 +36,14 @@ const MeusProjetos =[
         link:" https://samylleribeiro.github.io/calculadora-de-porcentagem/",
     }, 
     {
-        titulo:"Ferramenta positivo ou negativo",
+        titulo:"Ferramenta Positivo ou Negativo",
         descricao:"Ferramenta simples onde vai solicitar um número ao usuário e exibir se o número é positivo,negativo ou zero",
         link:" https://samylleribeiro.github.io/ferramenta-positivo-negativo/",
-    }, 
+    },
+    {   titulo:"Ferramenta Positivo ou Negativo",
+        descricao:"Uma nova versão com opção de modo noturno e responsividade ",
+        link:" https://samylleribeiro.github.io/positivo-negativo/",
+    },
     {
         titulo:"Calculadora para divisão",
         descricao:"Calculadora simples para calcular a divisão entre dois números(num1/num2)",
@@ -56,9 +60,14 @@ const MeusProjetos =[
         link:" https://samylleribeiro.github.io/calculadora-para-subtrair/",
     },
     {
-        titulo:"Calculadora para somar",
+        titulo:"Calculadora Para Somar",
         descricao:"Calculadora simples para calcular a soma entre dois números(num1+num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-somar/",
+    },
+    {
+        titulo:"Calculadora Para Somar",
+        descricao:"Uma nova versão com opção de modo noturno e responsividade para celular",
+        link:" https://samylleribeiro.github.io/somar/",
     },
     {
         titulo:"Calculadora para média",
