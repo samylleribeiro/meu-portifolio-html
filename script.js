@@ -11,7 +11,7 @@ const MeusProjetos =[
         link: "https://github.com/SamylleCarvalho/Aplicativo-AgendJa",
     },
     {
-        titulo:"calculadora de médias",
+        titulo:"Calculadora de Médias",
         descricao:"calculadora simples para calcular notas de alunos,e exibir se o aluno foi aprovado ou reprovado,no semestre.",
         link:"https://samyllecarvalho.github.io/calcular-m-dia/",
     },
@@ -45,19 +45,34 @@ const MeusProjetos =[
         link:" https://samylleribeiro.github.io/positivo-negativo/",
     },
     {
-        titulo:"Calculadora para divisão",
+        titulo:"Calculadora para Divisão",
         descricao:"Calculadora simples para calcular a divisão entre dois números(num1/num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-divisao/",
     },
     {
-        titulo:"Calculadora para multiplicação",
+        titulo:"Calculadora para Divisão",
+        descricao:"Uma nova versão com opção de modo noturno e responsividade para celular.",
+        link:" https://samylleribeiro.github.io/dividir/",
+    },
+    {
+        titulo:"Calculadora para Multiplicação",
         descricao:"Calculadora simples para calcular a multiplicação entre dois números(num1*num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-multiplicar./",
     },
+     {
+        titulo:"Calculadora para Multiplicação",
+        descricao:"Uma nova versão com opção de modo noturno e responsividade para celular.",
+        link:" https://samylleribeiro.github.io/multiplicar/",
+    },
     {
-        titulo:"Calculadora para subtração",
+        titulo:"Calculadora para Subtração",
         descricao:"Calculadora simples para calcular a subtração entre dois números(num1-num2)",
         link:" https://samylleribeiro.github.io/calculadora-para-subtrair/",
+    },
+    {
+        titulo:"Calculadora para Subtração",
+        descricao:"Uma nova versão com opção de modo noturno e responsividade para celular.",
+        link:" https://samylleribeiro.github.io/subtrair/",
     },
     {
         titulo:"Calculadora Para Somar",
