@@ -289,7 +289,11 @@ const MeusProjetos =[
        {   titulo:"Lembrete de medicamento 💊",
         descricao:"Esse projeto apresenta um lembrete de medicamento,usuário informa o nome do remédio e com quantas horas deve toma-lo,o sistema informa o horário que deve tomar o remédio",
         link:"https://samylleribeiro.github.io/lembrete-medicamento/",
-     },
+    },
+    {   titulo:"Calculadora para pitágoras",
+        descricao:"Esse projeto apresenta uma calculadora para o teorema de pitágoras, permitindo calcular a hipotenusa ou um dos catetos,usei select para o usuário escolher se quer calcular a hipotenusa ou um dos catetos.",
+        link:"https://samylleribeiro.github.io/calculadora-pitagoras/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
