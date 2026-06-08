@@ -294,6 +294,15 @@ const MeusProjetos =[
         descricao:"Esse projeto apresenta uma calculadora para o teorema de pitágoras, permitindo calcular a hipotenusa ou um dos catetos,usei select para o usuário escolher se quer calcular a hipotenusa ou um dos catetos.",
         link:"https://samylleribeiro.github.io/calculadora-pitagoras/",
     },
+    {   titulo:"Calculadora para Média de Notas Semestral",
+        descricao:"Esse projeto apresenta uma calculadora para média de notas de um aluno em um semestre,exibindo uma mensagem informando uma se o aluno foi aprovado ou reprovado no semestre.",
+        link:"https://samylleribeiro.github.io/media-escolar-semestral/",
+    },
+    {
+        titulo:"Calculadora para Média de Notas(disciplina/curso)",
+        descricao:"Uma calculadora para calcular média de notas de uma disciplina de um curso,e exibi uma mensagem informando se o aluno foi aprovado,focou de prova final ou ficou reprovado direto.",
+        link:"https://samylleribeiro.github.io/media-notasDisciplinaCurso/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
