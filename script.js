@@ -182,6 +182,11 @@ const MeusProjetos =[
         descricao:"Calculadora indice de massa corporal(IMC) ",
         link:" https://samylleribeiro.github.io/calculadora-imc/",
     },
+    {
+        titulo:"Calculadora de IMC ⚖️",
+        descricao:"Uma nova versão com responsividade e opção para modo noturno",
+        link:" https://samylleribeiro.github.io/calculo-imc/",
+    },
     {   titulo:"Medidor de glicemia🩸",
         descricao:"Medidor simples de glicemia, onde vai exibir uma mensagem informando se o valor da glicemia que o usuário digitou esta normal,pre-diabetico ou já e diabetico" ,
         link:" https://samylleribeiro.github.io/medidor-glicemia/",
