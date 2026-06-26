@@ -346,6 +346,11 @@ const MeusProjetos =[
         descricao:"Uma calculadora para calcular média de notas de uma disciplina de um curso,e exibi uma mensagem informando se o aluno foi aprovado,focou de prova final ou ficou reprovado direto.",
         link:"https://samylleribeiro.github.io/media-notasDisciplinaCurso/",
     },
+     {
+        titulo:"Conferiridor de Frequência Respiratoria 🫁",
+        descricao:"Um projeto para conferir frequência respiratória, vai solicitar ao usuário sua RPM e exibir uma mensagem informando se a frequência esta lenta,normal ou acelerada.",
+        link:"https://samylleribeiro.github.io/frequencia-respiratoria/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
