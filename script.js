@@ -351,6 +351,16 @@ const MeusProjetos =[
         descricao:"Um projeto para conferir frequência respiratória, vai solicitar ao usuário sua RPM e exibir uma mensagem informando se a frequência esta lenta,normal ou acelerada.",
         link:"https://samylleribeiro.github.io/frequencia-respiratoria/",
     },
+    {
+        titulo:"Calculadora para Hemoglobina Glicosada🩸",
+        descricao:"Uma Calculadora para calcular hemoglobina glicosada estimada, vai solicitar ao usuário a média da sua glicemia nos ultimos 3 meses e calcular a hemoglobina aproximada e informar se usuário esta no risco para pre-diabetico,diabetico ou praticamente sem risco para diabetes.",
+        link:"https://samylleribeiro.github.io/calculadora-hemoglobina/",
+    },
+    {
+        titulo:"Calculadora de Consumo de Sódio Diário 🧂",
+        descricao:"Uma Calculadora para consumo de sódio diario,usuário vai digitando oque for consumindo e o sistema vai informar quando estiver perto de atingir o limite e quando ultrapassar o limite de consumo diario.",
+        link:"https://samylleribeiro.github.io/calculadora-monitoramento-sodio/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
