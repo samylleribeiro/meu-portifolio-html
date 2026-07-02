@@ -166,13 +166,21 @@ const MeusProjetos =[
         descricao:"Conversor de medidas de distância(cm-m-km) ",
         link:"https://samylleribeiro.github.io/Conversor-medidas-distancia/ ",
     },
-    {   titulo:"Conversor de liquidos💧",
+    {   titulo:"Conversor de liquidos 💧",
         descricao:"Conversor de medidas de liquidos(L-ml) ",
         link:"https://samylleribeiro.github.io/conversor-medidas-liquidos/",
     },
-     {   titulo:"Conversor de tempo⏲️",
+    {   titulo:"Conversor de liquidos 💧",
+        descricao:"Uma nova versão com opção para modo noturno e responsividade para celular,e o uso de select para o usuário escolher a conversão em vez de botões individuais." ,
+        link:"https://samylleribeiro.github.io/conversorLiquido/",
+    },
+     {   titulo:"Conversor de tempo ⏲️",
         descricao:"Conversor de medidas de tempo(seg-mim-horas) ",
         link:" https://samylleribeiro.github.io/Conversor-de-tempo/",
+    },
+    {   titulo:"Conversor de tempo ⏲️",
+        descricao:"Uma nova versão com opção para modo noturno e responsividade para celular,e o uso de select para o usuário escolher a conversão em vez de botões individuais." ,
+        link:" https://samylleribeiro.github.io/conversorTempo/",
     },
     {   titulo:"Conversor de temperatura🌡️",
         descricao:"Conversor de medidas de temperatura(°C-°F-K) ",
@@ -361,6 +369,11 @@ const MeusProjetos =[
         descricao:"Uma Calculadora para consumo de sódio diario,usuário vai digitando oque for consumindo e o sistema vai informar quando estiver perto de atingir o limite e quando ultrapassar o limite de consumo diario.",
         link:"https://samylleribeiro.github.io/calculadora-monitoramento-sodio/",
     },
+    {
+        titulo:"Calculadora de Hidratação Diária 💧",
+        descricao:"Uma Calculadora para calcular a quantidade de água que o usuário deve beber por dia, com base em seu peso(peso*35ml), depois o usuário vai adicionando as bebidas no dia, o sistema vai informar o progresso e quando a meta for atingida.",
+        link:"https://samylleribeiro.github.io/hidratacao-diaria/",
+    }
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
