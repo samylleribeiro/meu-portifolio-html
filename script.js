@@ -162,9 +162,13 @@ const MeusProjetos =[
         descricao:"Uma nova versão com opção de modo noturno e responsividade para celular.",
         link:"https://samylleribeiro.github.io/equacao-2grau/ ",
     },
-    {   titulo:"Conversor de distâncias📏",
-        descricao:"Conversor de medidas de distância(cm-m-km) ",
+    {   titulo:"Conversor de Comprimentos 📏",
+        descricao:"Conversor de medidas de comprimento(cm-m-km) ",
         link:"https://samylleribeiro.github.io/Conversor-medidas-distancia/ ",
+    },
+    {   titulo:"Conversor de Comprimentos 📏",
+        descricao:"Uma nova versão com opção para modo noturno e responsividade para celular,e o uso de select para o usuário escolher a conversão em vez de botões individuais." ,
+        link:"https://samylleribeiro.github.io/conversor-comprimento/",
     },
     {   titulo:"Conversor de liquidos 💧",
         descricao:"Conversor de medidas de liquidos(L-ml) ",
@@ -377,6 +381,11 @@ const MeusProjetos =[
         titulo:"Calculadora de Hidratação Diária 💧",
         descricao:"Uma Calculadora para calcular a quantidade de água que o usuário deve beber por dia, com base em seu peso(peso*35ml), depois o usuário vai adicionando as bebidas no dia, o sistema vai informar o progresso e quando a meta for atingida.",
         link:"https://samylleribeiro.github.io/hidratacao-diaria/",
+    },
+    {
+        titulo:"Conversor de moedas 💵",
+        descricao:"Um conversor de moedas que permite a conversão entre diferentes moedas do mundo em tempo real.",
+        link:"https://samylleribeiro.github.io/conversor-moeda/",
     }
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
