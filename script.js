@@ -333,6 +333,10 @@ const MeusProjetos =[
         descricao:"Um projeto onde é possível criar tarefas e destaca-las como concluida ou exclui-las(tarefas ainda não ficam salvas no navegador)." ,
         link:"https://samylleribeiro.github.io/lista-tarefas/",
     },
+      {   titulo:"Lista de tarefas 📋",
+        descricao:"Uma nova versão já salvando as tarefas no navegador(ainda não salva o status concluida)." ,
+        link:"https://samylleribeiro.github.io/tarefas/",
+    },
      {   titulo:"Cronômetro Simples ⏱️",
         descricao:"Esse projeto apresenta um simples cronômetro com botões de iniciar,pausar e voltar para o zero." ,
         link:"https://samylleribeiro.github.io/cronometro-simples/",
@@ -386,7 +390,17 @@ const MeusProjetos =[
         titulo:"Conversor de moedas 💵",
         descricao:"Um conversor de moedas que permite a conversão entre diferentes moedas do mundo em tempo real.",
         link:"https://samylleribeiro.github.io/conversor-moeda/",
-    }
+    },
+     {
+        titulo:"Gerador de Senhas 🔐",
+        descricao:"Um projeto que vai criar senhas seguras aléatoria de acordo com o comprimento e caracteres escolhido pelo usuário.",
+        link:"https://samylleribeiro.github.io/gerador-senhas/",
+    },
+      {
+        titulo:"Jogo de Palavras",
+        descricao:"Um jogo de palavras ao clique vai surgir um emoji e umas opções de silabas, a criança vai clicando nas silabas correspondente ao nome do emoji.",
+        link:"https://samylleribeiro.github.io/jogo-palavras/",
+    },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
 const container =document.querySelector(".container-meus-projetos");
