@@ -321,6 +321,10 @@ const MeusProjetos =[
         descricao:"Um projeto que apresenta um gerador de palavras motivacionais,gerando uma nova palavra a cada clique." ,
         link:"https://samylleribeiro.github.io/palavras-motivacionais/",
     },
+     {   titulo:"Palavras Motivacionais ✨ 💪",
+        descricao:"Uma nova versão com a opção de copiar a palavra motivacional da tela." ,
+        link:"https://samylleribeiro.github.io/palavrasMotivacional/",
+    },
     {   titulo:"Gerador de Tabuada",
         descricao:"Um projeto que apresenta um gerador de tabuada,gerando a tabuada(+ - / % *) do número que o usuário digitou." ,
         link:"https://samylleribeiro.github.io/gerador-tabuada/",
@@ -404,6 +408,21 @@ const MeusProjetos =[
         titulo:"Jogo de Palavras",
         descricao:"Um jogo de palavras ao clique vai surgir um emoji e umas opções de silabas, a criança vai clicando nas silabas correspondente ao nome do emoji.",
         link:"https://samylleribeiro.github.io/jogo-palavras/",
+    },
+      {
+        titulo:"Sorteio de Palavras",
+        descricao:"Um projeto onde vai sortear uma palavra a cada clique.",
+        link:"https://samylleribeiro.github.io/sorteio-palavra/",
+    },
+       {
+        titulo:"Sorteio de números",
+        descricao:"Um projeto onde vai sortear uma número aleatório a cada clique.",
+        link:"https://samylleribeiro.github.io/soeteio-numeros/",
+    },
+        {
+        titulo:"Diário",
+        descricao:"Um diário pessoal,onde o usuário vai anotar suas memórias salva-las, ficando salvar no botão minhas anotações.",
+        link:"https://samylleribeiro.github.io/diario/",
     },
 ];
 // Gerar os cards(caixinhas) dos projetos dinamicamente
